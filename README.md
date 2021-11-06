@@ -29,4 +29,5 @@ Libraries needed in this project:
 - shapely.geometry import Point, Polygon
 - descartes
 
-
+**Necessary acknowledgments**
+Thanks to Udacity
