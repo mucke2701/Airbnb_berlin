@@ -1,6 +1,8 @@
 # Airbnb_berlin
 **Data Science Project on Airbnb Listings**
 
+Check also my Story on Medium: https://medium.com/@mauricio.leao.hess/all-you-need-to-know-in-data-science-with-airbnb-berlin-listings-586a40d37c1e
+
 In this project we used descriptive statistic to analyze the airbnb listing dataset of berlin from 22.09.2021, handled different types of data (e.g. missing data, outliers and categorical), predicted the prices of listings with KNN-Regression and Ridge-Regression and did a basic visualization of geo-data with geopandas of the most reviewed listings in berlin. This project can be used as an exercise for a beginning data scientist.
 
 Files in this project:
