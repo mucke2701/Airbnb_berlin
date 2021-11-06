@@ -30,4 +30,5 @@ Libraries needed in this project:
 - descartes
 
 **Necessary acknowledgments**
+
 Thanks to Udacity
